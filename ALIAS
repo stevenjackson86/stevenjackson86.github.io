@@ -1,0 +1,4 @@
+dig stevenjackson.work +nostats +nocomments +nocmd
+;stevenjackson.work
+stevenjackson.work.   73  IN  A 192.30.252.153
+stevenjackson.work.   73  IN  A 192.30.252.154
